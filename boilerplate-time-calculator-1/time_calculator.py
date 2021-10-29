@@ -16,7 +16,8 @@ def add_time(start,duration, day = False):
 
 
 
-
+  hello
+  
 def get_start_minutes(start):
   start_period = start.split(" ")[1]
   start_hour = int(start.split(" ")[0].split(":")[0])
